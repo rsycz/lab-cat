@@ -3,7 +3,7 @@
 Instructions:
 
 1. The `cat.py` file is an O(n) memory implementation of the `cat` command line utility.
-    Veryify that it works by running the commands
+    Verify that it works by running the commands
     ```
     $ python3 cat.py README.md
     $ python3 cat.py cat.py
